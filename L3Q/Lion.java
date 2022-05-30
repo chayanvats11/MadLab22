@@ -1,0 +1,4 @@
+class Lion extends Carnivores
+{
+    
+}

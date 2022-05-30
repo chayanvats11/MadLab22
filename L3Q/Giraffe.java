@@ -1,0 +1,4 @@
+class Giraffe extends Herbivores
+{
+    
+}

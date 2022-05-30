@@ -1,0 +1,4 @@
+class Bear extends Carnivores
+{
+    
+}

@@ -1,0 +1,4 @@
+interface Testable
+{
+    void display();
+}

@@ -1,0 +1,4 @@
+class Elephant extends Herbivores
+{
+    
+}
